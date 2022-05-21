@@ -9,4 +9,4 @@ Tools such as: Jupyter / JupyterLab, GitHub, R Studio.
 
 Watson Studio Libraries: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc.  
 
-Projects: random album generator, predict housing prices, best classifier model, predicting successful rocket landing, dashboard and interactive mapping.
+Projects: Random album generator, predict housing prices, best classifier model, predicting successful rocket landing, dashboard and interactive mapping.
